@@ -1,4 +1,5 @@
 #### 教程
+- [DeepSeek Harness 官方教程](https://deepseek-harness.github.io/deepseek-harness/develop/basic/)
 - [DeepSeek Harness 白皮书 · dsh-handbook](https://electricitysheep.github.io/dsh-handbook/#/)
 
 #### 开源
