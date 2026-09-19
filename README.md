@@ -5,6 +5,7 @@
 - [DeepSeek Harness 白皮书 · dsh-handbook](https://electricitysheep.github.io/dsh-handbook/#/)
 
 #### 开源
+- [dsh-Visual-Workflow](https://github.com/GZX2211/dsh-Visual-Workflow)
 - [dsh-short-video-studio](https://github.com/fengyungithub/dsh-short-video-studio)
 - [dsh-browser](https://github.com/Lum1104/dsh-browser)
 - [dsh-pocket](https://github.com/shaobeichen/dsh-pocket)
