@@ -5,6 +5,7 @@
 - [DeepSeek Harness 白皮书 · dsh-handbook](https://electricitysheep.github.io/dsh-handbook/#/)
 
 #### 开源
+- [dsh-skin-market](https://github.com/kingOfSoySauce/dsh-skin-market)
 - [dsh-automation](https://github.com/titanwings/dsh-automation)
 - [dsh-image-gen](https://github.com/shanliuling/dsh-image-gen)
 - [dsh-Visual-Workflow](https://github.com/GZX2211/dsh-Visual-Workflow)
