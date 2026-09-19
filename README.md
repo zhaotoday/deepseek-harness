@@ -5,6 +5,7 @@
 - [DeepSeek Harness 白皮书 · dsh-handbook](https://electricitysheep.github.io/dsh-handbook/#/)
 
 #### 开源
+- [dsh-data-agent](https://github.com/omdsh-dev/dsh-data-agent)
 - [dsh-free-search](https://github.com/DDDMUC/dsh-free-search)
 - [dsh-qqbot](https://github.com/tencent-connect/dsh-qqbot)
 - [dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill)
