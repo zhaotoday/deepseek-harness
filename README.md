@@ -1,3 +1,6 @@
+#### 教程
+- [DeepSeek Harness 白皮书 · dsh-handbook](https://electricitysheep.github.io/dsh-handbook/#/)
+
 #### 开源
 - [dsh-comfyui](https://github.com/fandc520/dsh-comfyui)
 - [dsh-meow-memory](https://github.com/Phant0Meow/dsh-meow-memory)
