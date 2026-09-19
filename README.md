@@ -1,4 +1,5 @@
 #### 教程
+- [deepseek harness中文详细学习教程](https://github.com/ht426/deepseek-harness-tutorial)
 - [DeepSeek Harness 的入门第一课](https://github.com/pingfanfan/hello-dsh/blob/main/README.zh.md)
 - [DeepSeek Harness 官方教程](https://deepseek-harness.github.io/deepseek-harness/develop/basic/)
 - [DeepSeek Harness 白皮书 · dsh-handbook](https://electricitysheep.github.io/dsh-handbook/#/)
