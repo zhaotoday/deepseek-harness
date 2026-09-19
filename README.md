@@ -2,6 +2,7 @@
 - [DeepSeek Harness 白皮书 · dsh-handbook](https://electricitysheep.github.io/dsh-handbook/#/)
 
 #### 开源
+- [dsh-pocket](https://github.com/shaobeichen/dsh-pocket)
 - [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar)
 - [dsh-web](https://github.com/zhu1090093659/dsh-web)
 - [dsh-comfyui](https://github.com/fandc520/dsh-comfyui)
