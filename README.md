@@ -5,6 +5,7 @@
 - [DeepSeek Harness 白皮书 · dsh-handbook](https://electricitysheep.github.io/dsh-handbook/#/)
 
 #### 开源
+- [dsh-plugin-agent-workflow](https://github.com/xuanyuanzhifeng/dsh-plugin-agent-workflow)
 - [dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)
 - [dsh-data-agent](https://github.com/omdsh-dev/dsh-data-agent)
 - [dsh-free-search](https://github.com/DDDMUC/dsh-free-search)
